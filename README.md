@@ -9,11 +9,11 @@ Here are some of my projects:
 
 * [Video Sharing App](https://video-sharing-app-19b10.firebaseapp.com/)
   * Technologies that I use:
-   * React
-   * Redux
-   * Node
-   * Express
-   * MongoDB
+   1. React
+   1. Redux
+   1. Node
+   1. Express
+   1. MongoDB
 * [Twitter Clone](https://node-twitter-clone.herokuapp.com/)
 * [Social Media App](https://somedial-3f51d.firebaseapp.com/)
 * [Online Buying/Selling Plateform](https://e-commerce-a35a3.firebaseapp.com/)
