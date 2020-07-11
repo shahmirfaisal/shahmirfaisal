@@ -15,5 +15,15 @@ Here are some of my projects:
    1. Express
    1. MongoDB
 * [Twitter Clone](https://node-twitter-clone.herokuapp.com/)
+  * Technologies that I use:
+  1. Node
+  1. Express
+  1. MongoDB
 * [Social Media App](https://somedial-3f51d.firebaseapp.com/)
+  * Technologies that I use:
+  1. React
+  1. Firebase
 * [Online Buying/Selling Plateform](https://e-commerce-a35a3.firebaseapp.com/)
+  * Technologies that I use:
+  1. React
+  1. Firebase
