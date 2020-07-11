@@ -31,4 +31,8 @@ Here are some of my projects:
 
 ## Connect with Me 
 
-__Email:__ shahmir049@gmail.com
+* __Email:__ shahmir049@gmail.com
+* [My Portfolio](https://portfolio-543bf.firebaseapp.com/)
+* [Twitter](https://twitter.com/shahmir049)
+* [Dev.to](https://dev.to/shahmir049)
+* [Medium](https://medium.com/@shahmir049)
