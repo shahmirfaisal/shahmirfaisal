@@ -28,3 +28,7 @@ Here are some of my projects:
   * Technologies that I use:
   1. React
   1. Firebase
+
+## Connect with Me
+
+__Email:__ shahmir049@gmail.com
