@@ -5,6 +5,7 @@
 I'm Shahmir Faisal. I'm a Frontend Developer. I usually work with React, Redux, SCSS, Node and Express.
 I'm currently learning Gatsby. I've built some amazing projects, feel free to check them out on my github.
 
+## My Projects
 Here are some of my projects:
 
 * [Video Sharing App](https://video-sharing-app-19b10.firebaseapp.com/)
