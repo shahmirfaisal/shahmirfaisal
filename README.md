@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Shahmir Faisal
 
 ![Shahmir Faisal](https://pbs.twimg.com/profile_images/1268895858977890304/aQFhVPFI_400x400.jpg)
 
@@ -32,7 +32,7 @@ Here are some of my projects:
 ## Connect with Me 
 
 * __Email:__ shahmir049@gmail.com
-* [My Portfolio](https://portfolio-543bf.firebaseapp.com/)
+* [My Portfolio](https://nostalgic-noyce-27f603.netlify.app/)
 * [Twitter](https://twitter.com/shahmir049)
 * [Dev.to](https://dev.to/shahmir049)
 * [Medium](https://medium.com/@shahmir049)
