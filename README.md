@@ -32,7 +32,7 @@ Here are some of my projects:
 ## Connect with Me 
 
 * __Email:__ shahmir049@gmail.com
-* [My Portfolio](https://shahmir.netlify.app/)
+* [My Portfolio](http://www.shahmirfaisal.tk/)
 * [Twitter](https://twitter.com/shahmir049)
 * [Dev.to](https://dev.to/shahmir049)
 * [Medium](https://medium.com/@shahmir049)
