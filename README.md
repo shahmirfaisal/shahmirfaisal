@@ -2,8 +2,8 @@
 
 ![Shahmir Faisal](https://pbs.twimg.com/profile_images/1268895858977890304/aQFhVPFI_400x400.jpg)
 
-I'm Shahmir Faisal. I'm a Frontend Developer based in Rawalpindi, Pakistan. I usually work with React, Redux, SCSS, Node and Express.
-I'm currently learning Gatsby and I'm always curious to learn new things. I've built some amazing projects, feel free to check them out on my github.
+I'm Shahmir Faisal. I'm a Fullstack Developer based in Rawalpindi, Pakistan. I usually work with React, Redux, SCSS, Node and Express.
+I'm always curious to learn new things. I've built some amazing projects, feel free to check them out on my github.
 
 ## My Projects
 Here are some of my projects:
