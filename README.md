@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shahmir Faisal
 
-![Shahmir Faisal](https://pbs.twimg.com/profile_images/1268895858977890304/aQFhVPFI_400x400.jpg)
+![Shahmir Faisal](https://pbs.twimg.com/profile_images/1363199353016315906/qJagzQO7_400x400.jpg)
 
 I'm Shahmir Faisal. I'm a Fullstack Developer based in Rawalpindi, Pakistan. I usually work with React, Redux, SCSS, Node and Express.
 I'm always curious to learn new things. I've built some amazing projects, feel free to check them out on my github.
