@@ -8,6 +8,7 @@ I'm a web developer having proficiency in working with javascript, react, redux,
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [codewithshahmir@gmail.com](mailto:codewithshahmir@gmail.com)
+* Currently working on [AI Text Tools](https://aitexttools.com/)
 
 <a href="https://www.twitter.com/codewithshahmir" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/codewithshahmir?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
