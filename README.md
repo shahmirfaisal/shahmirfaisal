@@ -10,7 +10,7 @@ I'm a web developer having proficiency in working with javascript, react, redux,
 * 🖥️  See my portfolio at [portfolio.shahmir.me](http://portfolio.shahmir.me/)
 * ✉️  You can contact me at [codewithshahmir@gmail.com](mailto:codewithshahmir@gmail.com)
 * 🚀  I'm currently working on [Image Slider Generator](http://imageslidergenerator.shahmir.me/)
-* 🧠  I'm learning SOLID Design Principles
+* 🧠  I'm currently learning React Native
 * 🤝  I'm open to collaborating on projects related to Web Development
 * ⚡  I'm looking for freelance and job opportunities.
 
