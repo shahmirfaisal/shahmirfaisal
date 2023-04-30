@@ -7,9 +7,9 @@ Web Developer
 I'm a web developer having proficiency in working with javascript, react, redux, nextjs, node, express and mongodb. I strive to develop beautiful web apps through carefully crafted code and user-friendly design. And I'm always curious to explore new technologies.
 
 * 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [portfolio.shahmir.me](http://portfolio.shahmir.me/)
-* ✉️  You can contact me at [codewithshahmir@gmail.com](mailto:codewithshahmir@gmail.com)
-* 🚀  I'm currently working on [Portfolio Builder](https://github.com/shahmirfaisal/portfolio-builder)
+* 🖥️  See my portfolio at [ShahmirFaisal.com](http://shahmirfaisal.com)
+* ✉️  You can contact me at [me@shahmirfaisal.com](mailto:me@shahmirfaisal.com)
+* 🚀  I'm currently working on [Simplistic Notes](https://simplisticnotes.com)
 * 🧠  I'm currently learning React Native
 * 🤝  I'm open to collaborating on projects related to Web Development
 * ⚡  I'm looking for freelance and job opportunities.
