@@ -9,7 +9,7 @@ I'm a web developer having proficiency in working with javascript, react, redux,
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [ShahmirFaisal.com](http://shahmirfaisal.com)
 * ✉️  You can contact me at [me@shahmirfaisal.com](mailto:me@shahmirfaisal.com)
-* 🚀  I'm currently working on [Simplistic Notes](https://simplisticnotes.com)
+* 🚀  I'm currently working on [MyDevPa.ge](https://mydevpa.ge)
 * 🧠  I'm currently learning React Native
 * 🤝  I'm open to collaborating on projects related to Web Development
 * ⚡  I'm looking for freelance and job opportunities.
