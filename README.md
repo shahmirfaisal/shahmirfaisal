@@ -43,9 +43,9 @@ src="https://img.shields.io/github/followers/shahmirfaisal?logo=github&style=for
 
 ### Latest Articles
 
-- [Introducing Polle - Create, Distribute and Analyze Polls](https://shahmir.me/introducing-polle-create-distribute-and-analyze-polls)
-- [Open-Closed Principle - SOLID Principles in Javascript](https://shahmir.me/open-closed-principle-solid-principles-in-javascript)
-- [Single Responsibility Principle - SOLID Principles in Javascript](https://shahmir.me/single-responsibility-principle-solid-principles-in-javascript)
+- [How to use Next.Js 14 with Supabase](https://blog.shahmirfaisal.com/how-to-use-next-14-with-supabase)
+- [How to send emails using Next.js 14, Resend and React-Email](https://blog.shahmirfaisal.com/how-to-send-emails-using-next-14-resend-and-react-email)
+- [Singly Linked List - Data Structures and Algorithms in Javascript](https://blog.shahmirfaisal.com/singly-linked-list-data-structures-and-algorithms-in-javascript)
 
 
 ### Badges
